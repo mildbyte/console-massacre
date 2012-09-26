@@ -1,0 +1,29 @@
+<dnditems>
+    <armor name = "Padded Armor" ar = "1" maxdexmod = "8" value = "5" probability = "0.95"/>
+    <armor name = "Leather Armor" ar = "2" maxdexmod = "6" value = "10" probability = "0.9"/>
+    <armor name = "Hide Armor" ar = "3" maxdexmod = "4" value = "15" probability = "0.85"/>
+    <armor name = "Studded Leather" ar = "3" maxdexmod = "5" value = "25" probability = "0.8"/>
+    <armor name = "Scale Mail" ar = "4" maxdexmod = "3" value = "50" probability = "0.7"/>
+    <armor name = "Chain Shirt" ar = "4" maxdexmod = "4" value = "100" probability = "0.6"/>
+    <armor name = "Chainmail" ar = "5" maxdexmod = "2" value = "150" probability = "0.8"/>
+    <armor name = "Breastplate" ar = "5" maxdexmod = "3" value = "200" probability = "0.6"/>
+    <armor name = "Splint Mail" ar = "6" maxdexmod = "0" value = "225" probability = "0.4"/>
+    <armor name = "Banded Mail" ar = "6" maxdexmod = "1" value = "250" probability = "0.45"/>
+    <armor name = "Half-Plate" ar = "7" maxdexmod = "0" value = "600" probability = "0.3"/>
+    <armor name = "Full Plate" ar = "8" maxdexmod = "1" value = "1000" probability = "0.1"/>
+    <weapon name = "Brass Knuckles" rollmax = "4" value = "3" probability = "0.9" />
+    <weapon name = "Dagger" rollmax = "4" critrollmin = "19" value = "10" probability = "0.9" />
+    <weapon name = "Mace" rollmax = "6" value = "20" probability = "0.7" />
+    <weapon name = "Handaxe" rollmax = "6" critrollmult = "3" value = "25" probability = "0.8" />
+    <weapon name = "Shortsword" rollmax = "6" critrollmin = "19" value = "40" probability = "0.7" />
+    <weapon name = "Scimitar" rollmax = "6" critrollmax = "18" value = "100" probability = "0.5" />
+    <weapon name = "Morningstar" rollmax = "8" value = "150" probability = "0.7" />
+    <weapon name = "Spear" rollmax = "8" critrollmult = "3" value = "200" probability = "0.6" />
+    <weapon name = "Longsword" rollmax = "8" critrollmin = "19" value = "300" probability = "0.8" />
+    <weapon name = "Greatclub" rollmax = "10" value = "550" probability = "0.5" />
+    <weapon name = "Halberd" rollmax = "10" critrollmult = "3" value = "700" probability = "0.3" />
+    <weapon name = "Bastard Sword" rollmax = "10" critrollmin = "19" value = "800" probability = "0.25" />
+    <weapon name = "Greataxe" rollmax = "12" critrollmult = "3" value = "1000" probability = "0.1" />
+    <weapon name = "Greatsword" rollcount = "2" rollmax = "6" critrollmin = "19" value = "1000" probability = "0.1" />
+    <weapon name = "Ultimate Sword" rollcount = "3" rollmax = "10" critrollmin = "17" critrollmult = "3" value = "2000" probability = "0.2" />
+</dnditems>
